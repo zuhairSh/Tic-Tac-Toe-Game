@@ -28,8 +28,8 @@ This application was developed to demonstrate game logic implementation in **Win
 
 ## 📸 Project Preview
 <p align="center">
-  <img src="mages1.jpg" width="80%" alt="Tic Tac Toe Welcome Screen">
-  <img src="mages2.jpg" width="80%" alt="Tic Tac Toe Welcome Screen">
+  <img src="mages1.jpg" width="45%" alt="Welcome Screen">
+  <img src="mages2.jpg" width="45%" alt="Game Screen">
 </p>
 
 ---
