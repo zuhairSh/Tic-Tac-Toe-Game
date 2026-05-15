@@ -28,7 +28,7 @@ This application was developed to demonstrate game logic implementation in **Win
 
 ## 📸 Project Preview
 <p align="center">
-  <img src="mages1.jpg" width="30%" alt="Welcome Screen">
+  <img src="mages1.jpg" width="25%" alt="Welcome Screen">
   <img src="mages2.jpg" width="60%" alt="Game Screen">
 </p>
 
